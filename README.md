@@ -38,6 +38,6 @@ Make the index finger and thumb touch to simulate a mouse click and release it t
 
 ## How It Works
 
-    Index Finger Tracking: The program tracks the position of the index finger to control the cursor. The position of the cursor is based on the relative position of the index finger's tip.
-    Cursor Movement: The cursor moves based on the relative displacement of the index finger.
-    Click Detection: The program detects when the index finger and thumb touch (i.e., a pinch gesture) to simulate a mouse click using pyautogui.mouseDown(). The click is released when the pinch is no longer detected using pyautogui.mouseUp().
+Index Finger Tracking: The program tracks the position of the index finger to control the cursor. The position of the cursor is based on the relative position of the index finger's tip.
+Cursor Movement: The cursor moves based on the relative displacement of the index finger.
+Click Detection: The program detects when the index finger and thumb touch (i.e., a pinch gesture) to simulate a mouse click using pyautogui.mouseDown(). The click is released when the pinch is no longer detected using pyautogui.mouseUp().
