@@ -25,16 +25,16 @@ pip install opencv-python mediapipe pyautogui
 
 ## Usage
 
-    Connect your webcam and ensure it is properly configured.
-    Run the Python script:
+Connect your webcam and ensure it is properly configured.
+Run the Python script:
 
 ```bash
 python main.py
 ```
 
-    The webcam window will appear, showing the tracked hand landmarks.
-    Move your hand in front of the webcam to control the cursor. The cursor will follow the index finger.
-    Make the index finger and thumb touch to simulate a mouse click and release it to release the click.
+The webcam window will appear, showing the tracked hand landmarks.
+Move your hand in front of the webcam to control the cursor. The cursor will follow the index finger.
+Make the index finger and thumb touch to simulate a mouse click and release it to release the click.
 
 ## How It Works
 
